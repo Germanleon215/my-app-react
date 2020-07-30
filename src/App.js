@@ -12,7 +12,7 @@ function App() {
       <NumText />
       <hr />
       <Matrices />
-
+      por qe 
     </div>
   );
 }
